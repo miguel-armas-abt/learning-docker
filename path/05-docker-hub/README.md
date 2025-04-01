@@ -4,7 +4,7 @@
 
 ----
 
-[Docker Hub](https://hub.docker.com/) es una plataforma que sirve como repositorio de imágenes de Docker, la cual permite acceder y compartir imágenes.
+[Docker Hub](https://hub.docker.com/) es una plataforma que sirve como repositorio de imágenes (registry) de Docker, la cual permite acceder y compartir imágenes.
 
 > ### ▶️ Autenticarse con Docker Hub
 > ```shell script

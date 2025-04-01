@@ -4,8 +4,6 @@
 
 ----
 
-Un contenedor de Docker es la instancia en ejecución de una imagen, que aísla la aplicación y sus procesos en un entorno ligero y estandarizado. Utiliza las configuraciones y dependencias definidas en la imagen para garantizar una ejecución consistente y reproducible en cualquier entorno.
-
 > ### ▶️ Ejecutar contenedor
 > - Utilice `--rm` para eliminar el contenedor cuando se detenga
 > - Utilice `-d` para ejecutar el contenedor en segundo plano

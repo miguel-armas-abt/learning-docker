@@ -4,9 +4,6 @@
 
 ----
 
-Una imagen de Docker es un paquete inmutable que consolida, a partir del Dockerfile, todo lo necesario para ejecutar una aplicación,
-incluyendo el sistema operativo base, dependencias y código compilado. Esto garantiza una ejecución consistente en cualquier entorno.
-
 > ### ▶️ Construir imagen
 > - Utilice `-t` para especificar el nombre de la imagen y su correspondiente tag
 > - Utilice `-f` opcionalmente para especificar una ruta personalizada del Dockerfile

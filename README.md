@@ -1,5 +1,6 @@
 # APRENDIENDO DOCKER
 
+- [00. Configuración](path/00-setup/README.md)
 - [01. Introducción](path/01-introduction/README.md)
 - [02. Dockerfile]
 - [03. Imágenes](path/03-images/README.md)
